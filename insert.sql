@@ -17,7 +17,7 @@ INSERT INTO books (title,publisher) VALUES('The Great War for Civilisation',(SEL
 INSERT INTO subjects (name) VALUES('C');
 INSERT INTO subjects (name) VALUES('UNIX');
 INSERT INTO subjects (name) VALUES('Technology');
-INSERT INTO subjects (name) VALUES('GO');
+INSERT INTO subjects (name) VALUES('Go');
 INSERT INTO subjects (name) VALUES('Science Fiction');
 INSERT INTO subjects (name) VALUES('Productivity');
 INSERT INTO subjects (name) VALUES('Psychology');
